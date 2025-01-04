@@ -11,9 +11,13 @@ Sou apaixonado por tecnologia e programação! Estou em constante aprendizado e 
 - **JavaScript**
 - **C#**
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CassioReigotto&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CassioReigotto&size_weight=0.5&count_weight=0.5)
+
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](www.linkedin.com/in/cassio-reigotto-21a361190)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/cassio-reigotto-21a361190)
 [![Email](https://img.shields.io/badge/Email-Enviar%20e--mail-red)](mailto:cassio.reigotto@outlook.com)
 
 ## Tecnologias e Ferramentas
