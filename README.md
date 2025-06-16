@@ -20,10 +20,11 @@ Sou apaixonado por tecnologia e programação! Estou em constante aprendizado e 
 
 ## Tecnologias e Ferramentas
 
-![Java](https://img.shields.io/badge/Java-IntelliJ%20IDEA-blueviolet)
-![PL/SQL](https://img.shields.io/badge/PLSQL-Oracle-orange)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,docker,oracle,postgres" />
+  </a>
+</p>
 
 ---
 
