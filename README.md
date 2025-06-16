@@ -30,7 +30,7 @@ Sou apaixonado por tecnologia e programação! Estou em constante aprendizado e 
 
 ---
 
-Sinta-se à vontade para explorar meu perfil e entrar em contato! empre em busca de aprendizado e novas oportunidades profissionais. 
+Sinta-se à vontade para explorar meu perfil e entrar em contato! Sempre em busca de aprendizado e novas oportunidades profissionais. 
 
 
 --
