@@ -24,7 +24,7 @@ Sou apaixonado por tecnologia e programação! Estou em constante aprendizado e 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,docker,postgres" />
+    <img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,scala" />
   </a>
 </p>
 
