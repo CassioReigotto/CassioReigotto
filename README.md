@@ -2,13 +2,12 @@
 
 ## Sobre mim
 
-Meu nome é **Cassio**, tenho 23 anos e sou de **Cuiabá - MT**. Atualmente, trabalho como **Analista de Suporte**, onde tenho bastante experiência com **PL/SQL** e um conhecimento sólido em bancos de dados. 
+Meu nome é **Cassio**, tenho 24 anos e sou de **Cuiabá - MT**. Atualmente, trabalho como **Analista de Suporte**, onde tenho bastante experiência com **PL/SQL** e um conhecimento sólido em bancos de dados. 
 
-Sou apaixonado por tecnologia e programação! Estou em constante aprendizado e no momento estou focado no desenvolvimento em **C#**. Além disso, já estudei e possuo conhecimentos em:
+Sou apaixonado por tecnologia e programação! Estou em constante aprendizado e no momento estou focado no desenvolvimento em **JAVA**. Além disso, já estudei e possuo conhecimentos em:
 
 - **HTML5**
 - **CSS3**
-- **Java**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CassioReigotto&show_icons=true&theme=radical)
 
