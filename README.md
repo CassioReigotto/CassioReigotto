@@ -28,3 +28,12 @@ Sou apaixonado por tecnologia e programação! Estou em constante aprendizado e 
 ---
 
 Sinta-se à vontade para explorar meu perfil e entrar em contato! Estou sempre aberto para novas conexões e oportunidades. 🚀
+
+
+--
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CassioReigotto/CassioReigotto/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CassioReigotto/CassioReigotto/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CassioReigotto/CassioReigotto/output/github-contribution-grid-snake.svg">
+</picture>
