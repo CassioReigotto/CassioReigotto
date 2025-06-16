@@ -24,9 +24,12 @@ Sou apaixonado por tecnologia e programação! Estou em constante aprendizado e 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,docker,postgres" />
+    <img src="https://skillicons.dev/icons?i=java,spring,docker" />
   </a>
 </p>
+
+ [![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle%20-F80000?logo=oracle&logoColor=white)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 
 ---
 
