@@ -6,8 +6,10 @@ Meu nome é **Cassio**, tenho 24 anos e sou de **Cuiabá - MT**. Atualmente, tra
 
 Sou apaixonado por tecnologia e programação! Estou em constante aprendizado e no momento estou focado no desenvolvimento em **JAVA**. Além disso, já estudei e possuo conhecimentos em:
 
-- **HTML5**
-- **CSS3**
+- **Spring**
+- **Docker**
+- **Oracle Database**
+- **Postgres**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CassioReigotto&show_icons=true&theme=radical)
 
