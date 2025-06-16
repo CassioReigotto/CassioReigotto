@@ -22,7 +22,7 @@ Sou apaixonado por tecnologia e programação! Estou em constante aprendizado e 
 
 ## Tecnologias e Ferramentas
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,docker,postgres" />
   </a>
